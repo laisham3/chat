@@ -1,2 +1,2 @@
 # chat
-Following a tutorial 
+Following a chat app tutorial 
